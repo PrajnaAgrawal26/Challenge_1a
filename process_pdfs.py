@@ -27,14 +27,15 @@ def process_pdf(pdf_path):
     X_new, raw_meta = extract_features(parsed_blocks, page_height=PAGE_HEIGHT)
     predicted_labels = predict_headings(str(MODEL_PATH), X_new)
     for i, label in enumerate(predicted_labels):
-        raw_meta[i]["label"] = label
+        if label == "None":
+            raw_meta[i]["label"] = "H2"
+        else:
+            raw_meta[i]["label"] = label
     title = extract_title(raw_meta)
     outline = [
         {"level": str(b["label"]), "text": str(b["text"]), "page": int(b["page"])}
-        for b in raw_meta
+        for b in raw_meta if b.get("label")
     ]
-    # print(f"Extracted title: {title}")
-    # print(f"Extracted outline: {outline}")
     return {"title": title, "outline": outline}
 
 def main():
