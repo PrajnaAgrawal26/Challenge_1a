@@ -1,0 +1,1430 @@
+{
+  "title": "Overview",
+  "outline": [
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 1
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtensions",
+      "page": 1
+    },
+    {
+      "level": "None",
+      "text": "Version1.0",
+      "page": 1
+    },
+    {
+      "level": "None",
+      "text": "InternationalSoftwareTestingQualificationsBoard",
+      "page": 1
+    },
+    {
+      "level": "None",
+      "text": "CopyrightNotice",
+      "page": 1
+    },
+    {
+      "level": "None",
+      "text": "Thisdocumentmaybecopiedinitsentirety,orextractsmade,ifthesourceisacknowledged.",
+      "page": 1
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "Copyright©InternationalSoftwareTestingQualificationsBoard(hereinaftercalledISTQB®).",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page2of12May31,2014",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 2
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "RevisionHistory",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "VersionDateRemarks",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "0.118JUNE2013Initialversion",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "0.223JULY2013WGreviewedandconfirmed",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "0.36NOV2013amendedpopulationanddiagram",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "0.711DEC2013AmendedBusinessOutcomesandChaptersmatching",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "0.820DEC2013Workinggroupupdateson0.7",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "1.031MAY2014GAreleaseforAgileExtension",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page3of12May31,2014",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 3
+    },
+    {
+      "level": "None",
+      "text": "RevisionHistory..........................................................................................................................................3",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "TableofContents........................................................................................................................................4",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "1.IntroductiontotheFoundationLevelExtensions............................................................................6",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.IntroductiontoFoundationLevelAgileTesterExtension...............................................................7",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.1IntendedAudience.....................................................................................................................7",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.2CareerPathsforTesters............................................................................................................7",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.3LearningObjectives...................................................................................................................7",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.4EntryRequirements...................................................................................................................8",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.5StructureandCourseDuration...................................................................................................8",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "2.6KeepingItCurrent......................................................................................................................9",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "3.OverviewoftheFoundationLevelExtension–AgileTesterSyllabus.........................................10",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "3.1BusinessOutcomes.................................................................................................................10",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "3.2Content....................................................................................................................................10",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "4.References..........................................................................................................................................12",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "4.1Trademarks.............................................................................................................................12",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "4.2DocumentsandWebSites.......................................................................................................12",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "TableofContents",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page4of12May31,2014",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 4
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Acknowledgements",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "ThisdocumentwasproducedbyateamfromtheInternationalSoftwareTestingQualificationsBoard",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelWorkingGroup.",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "TheAgileExtensionteamthanksthereviewteamandtheNationalBoardsfortheirsuggestionsandinput.",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "AtthetimetheFoundationLevelAgileExtensionSyllabuswascompleted,theAgileExtensionWorking",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Grouphadthefollowingmembership:RexBlack(Chair),BertrandCornanguer(ViceChair),Gerry",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Coleman(LearningObjectivesLead),DebraFriedenberg(ExamLead),AlonLinetzki(BusinessOutcomes",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "andMarketingLead),TauhidaParveen(Editor),andLeovanderAalst(DevelopmentLead).",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Authors:RexBlack,AndersClaesson,GerryColeman,BertrandCornanguer,IstvanForgacs,Alon",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Linetzki,TiloLinz,LeovanderAalst,MarieWalsh,andStephanWeber.",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "InternalReviewers:MetteBruhn-Pedersen,ChristopherClements,AlessandroCollino,Debra",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Friedenberg,KariKakkonen,BeataKarpinska,SammyKolluru,JenniferLeger,ThomasMueller,Tuula",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Pääkkönen,MeilePosthuma,GaborPuhalla,LloydRoden,MarkoRytkönen,MonikaStoecklein-Olsen,",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "RobertTreffny,ChrisVanBael,andErikvanVeenendaal.",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Theteamthanksalsothefollowingpersons,fromtheNationalBoardsandtheAgileexpertcommunity,",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "whoparticipatedinreviewing,commenting,andballotingoftheFoundationAgileExtensionSyllabus:Dani",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Almog,RichardBerns,StephenBird,MonikaBögge,AfengChai,JosephineCrawford,TiborCsöndes,",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "HubaDemeter,ArnaudFoucal,CyrilFumery,KobiHalperin,IngaHansen,HanneHinz,JidongHu,Phill",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Isles,ShirleyItah,MartinKlonk,KjellLauren,IgalLevi,RikMarselis,JohanMeivert,ArminMetzger,Peter",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Morgan,NinnaMorin,IngvarNordstrom,ChrisO’Dea,KlausOlsen,IsmoPaukamainen,NathaliePhung,",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "HelmutPichler,SalvatoreReale,StuartReid,HansRombouts,PetriSäilynoja,SoileSainio,Lars-Erik",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Sandberg,DakarShalom,JianShen,MarcoSogliani,LucjanStapp,YaronTsubery,SabineUhde,",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "StephanieUlrich,TommiVälimäki,JurianVandeLaar,MarnixVandenEnt,AntónioVieiraMelo,Wenye",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Xu,EsterZabar,WenqiangZheng,PeterZimmerer,StevanZivanovic,andTerryZuo.",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "ThisdocumentwasformallyapprovedforreleasebytheGeneralAssemblyoftheISTQB®onMay31,",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "2014.",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page5of12May31,2014",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 5
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "1.IntroductiontotheFoundationLevelExtensions",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "ThisoverviewdocumentisintendedforanyonewithaninterestintheISTQBFoundationLevel",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "Extensionswhowantsahigh-levelintroductiontotheleadingprinciplesandanoverviewoftheindividual",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "extensionsyllabi.",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "Fromtimetotime,ISTQBwillupdatethisdocumenttoreflectanyadditionalextensionsthatshallbe",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "introducedfortheFoundationLevel,ortoreflectmajorchangesinexistingones.Publicationsofthe",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "updateddocumentwillbeavailableontheISTQBwebsite.",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "TheISTQBFoundationandAdvancedLevelsyllabihavebeendefinedandhavebeenonthemarketfor",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "sometime.Newtopicsemergeduetotechnologyandmethodologychangesinthemarketwhichoften",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "arebroughtintotheISTQBprogramasnewExpertLevelsyllabi.However,notalltopicsaresuitedforthe",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "ExpertLevel.Forthisreason,theextensionsyllabiareestablishedattheFoundationLeveltoexpandthe",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "ISTQBprogramtoincorporateneworupdatedknowledge.Newextensionsshallbediscussedand",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "introducedbytheISTQBperiodically.ExtensionsmaybeestablishedattheAdvancedLevelaswell,but",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "thatisbeyondthescopeofthisdocument.",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "ThefollowingFoundationLevelExtensionsyllabushasbeenreleased:",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "AgileTester",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "Inthisdocument,eachFoundationLevelExtensionsyllabusissummarizedandtheassociatedBusiness",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "Outcomesarestated.TheBusinessOutcomescommunicatewhatcanbeexpectedfromapersonwho",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "achievesaFoundationLevelExtensionCertificationinaparticularsubjectarea(e.g.,AgileTester),and",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "willoutlinethebenefitsforcompaniesthatareconsideringthedevelopmentofspecifictestingskillsatthis",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "level.",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page6of12May31,2014",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 6
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "2.IntroductiontoFoundationLevelAgileTesterExtension",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "ThecertificationforFoundationLevelExtension–AgileTesterisdesignedforprofessionalswhoare",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "workingwithinAgileenvironments.Itisalsoforprofessionalswhoareplanningtostartimplementing",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "Agilemethodsinthenearfuture,orareworkingwithincompaniesthatplantodoso,Thecertification",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "providesanadvantageforthosewhowouldliketoknowtherequiredAgileactivities,roles,methods,and",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "methodologiesspecifictotheirrole.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "2.1IntendedAudience",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "TheFoundationLevelExtension–AgileTesterqualificationisaimedatfourmaingroupsofprofessionals:",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "1.Professionalswhohaveachievedin-depthtestingexperienceintraditionalmethodsandwould",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "liketogetanAgileTesterCertificate.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "2.Juniorprofessionaltesterswhoarejuststartinginthetestingprofession,havereceivedthe",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelcertificate,andwouldliketoknowmoreaboutthetester’sroleinanAgile",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "environment.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "3.Professionalswhoarerelativelynewtotestingandarerequiredtoimplementtestapproaches,",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "methodsandtechniquesintheirdaytodayjobinAgileprojects.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "4.Professionalswhoareexperiencedintheirrole(includingunittesting)andneedmore",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "understandingandknowledgeabouthowtoperformandmanagetestingonalllevelsinAgile",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "projects.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "Theseprofessionalsincludepeoplewhoareinrolessuchastesters,testanalysts,testengineers,test",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "consultants,testmanagers,useracceptancetesters,andsoftwaredevelopers.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "ThisFoundationLevelExtension–AgileTestercertificationmayalsobeappropriateforanyonewho",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "wantsadeeperunderstandingofsoftwaretestingintheAgileworld,suchasprojectmanagers,quality",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "managers,softwaredevelopmentmanagers,businessanalysts,ITdirectors,andmanagement",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "consultants.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "2.2CareerPathsforTesters",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "BuildingontheFoundationLevel,theAgileTesterExtensionsupportsthedefinitionofcareerpathsfor",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "professionaltesters.ApersonwiththeAgileTestercertificatehasextendedthebroadunderstandingof",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "testingacquiredattheFoundationLeveltoenablehimorhertoworkeffectivelyasaprofessionaltesterin",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "anAgileproject.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "PeoplepossessinganISTQBFoundationLevelExtension–AgileTestercertificatemayusetheCertified",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "TesterFoundationLevelacronymCTFL-AT.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "2.3LearningObjectives",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "Ingeneral,theFoundationLevelsyllabusisexaminableataK1level,i.e.,thecandidatewillrecognize,",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "rememberandrecalltermsandconceptsstatedintheFoundationLevelsyllabus.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "Inaddition,allFoundationLevelsyllabuslearningobjectivesareexaminableatthesameK-levelinan",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "extensionexam.",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page7of12May31,2014",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 7
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "Thatsaid,eachextensionlevelexamfocusesonthelearningobjectivesdefinedinthatextension",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "syllabus.TherelevantlearningobjectivesatK1,K2,andK3levelsareprovidedatthebeginningofeach",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "chapterwithineachparticularextensionsyllabus.",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "2.4EntryRequirements",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "TobeabletoparticipateinaFoundationLevelExtension–AgileTesterexam,candidatesmusthave",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "obtainedtheISTQBFoundationLevelcertificate.",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "2.5StructureandCourseDuration",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "TheFoundationLevelExtension–AgileTestersyllabushasnosharedorcommonelementswiththe",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelsyllabus.",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "Thesyllabimustbetaughtinthefollowingminimumnumberofdays:",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "SyllabusDays",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "Baseline:Foundation3",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "Extension:AgileTester2",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "ThefollowingfigureshowsthestructureoftheAgileTesterExtensionanditsrelationshiptothe",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevel.",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page8of12May31,2014",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 8
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "2.6KeepingItCurrent",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "Thesoftwareindustrychangesrapidly.Todealwiththesechangesandtoprovidethestakeholderswith",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "accesstorelevantandcurrentinformation,theISTQBworkinggroupshavecreatedlinksonthe",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "www.istqb.orgwebsitewhichrefertosupportingdocuments,changestostandardsandnewoccurrences",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "intheindustry.Thisinformationisnotexaminableunderthissyllabus.",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page9of12May31,2014",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 9
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "3.OverviewoftheFoundationLevelExtension–AgileTester",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Syllabus",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "3.1BusinessOutcomes",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "ThissectionliststheBusinessOutcomesexpectedofacandidatewhohasachievedtheFoundationLevel",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Extension–AgileTestercertification.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AnAgileTestercan…",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM1Collaborateinacross-functionalAgileteambeingfamiliarwithprinciplesandbasic",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "practicesofAgilesoftwaredevelopment.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM2AdaptexistingtestingexperienceandknowledgetoAgilevaluesandprinciples.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM3SupporttheAgileteaminplanningtest-relatedactivities.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM4ApplyrelevantmethodsandtechniquesfortestinginanAgileproject.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM5AssisttheAgileteamintestautomationactivities.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM6Assistbusinessstakeholdersindefiningunderstandableandtestableuserstories,",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "scenarios,requirementsandacceptancecriteriaasappropriate.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "AFM7Workandshareinformationwithotherteammembersusingeffectivecommunication",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "stylesandchannels.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Ingeneral,aCertifiedTesterFoundationLevel–AgileTesterisexpectedtohaveacquiredthenecessary",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "skillstoworkingeffectivelywithinanAgileteamandenvironment.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "3.2Content",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Chapter1:AgileSoftwareDevelopment",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldrememberthebasicconceptofAgilesoftwaredevelopmentbasedontheAgile",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Manifesto.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldunderstandtheadvantagesofthewhole-teamapproachandthebenefitsof",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "earlyandfrequentfeedback.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldrecallAgilesoftwaredevelopmentapproaches.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletowritetestableuserstoriesincollaborationwithdevelopersand",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "businessrepresentatives.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldunderstandhowretrospectivescanbeusedasamechanismforprocess",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "improvementinAgileprojects.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldunderstandtheuseandpurposeofcontinuousintegration.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldknowthedifferencesbetweeniterationandreleaseplanning,andhowatester",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "addsvalueineachoftheseactivities.",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page10of12May31,2014",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 10
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Chapter2:FundamentalAgileTestingPrinciples,Practices,andProcesses",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldbeabletodescribethedifferencesbetweentestingactivitiesinAgileprojects",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "andnon-Agileprojects.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletodescribehowdevelopmentandtestingactivitiesareintegratedin",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Agileprojects.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldbeabletodescribetheroleofindependenttestinginAgileprojects.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletodescribethetoolsandtechniquesusedtocommunicatethestatusof",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "testinginanAgileproject,includingtestprogressandproductquality.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletodescribetheprocessofevolvingtestsacrossmultipleiterationsand",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "explainwhytestautomationisimportanttomanageregressionriskinAgileprojects.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldunderstandtheskills(people,domain,andtesting)ofatesterinanAgileteam.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldbeabletounderstandtheroleofatesterwithinanAgileteam.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Chapter3:AgileTestingMethods,Techniques,andTools",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletorecalltheconceptsoftest-drivendevelopment,acceptancetest-",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "drivendevelopment,andbehavior-drivendevelopment.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletorecalltheconceptsofthetestpyramid.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletosummarizethetestingquadrantsandtheirrelationshipswithtesting",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "levelsandtestingtypes.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "ForagivenAgileproject,thetestershouldbeabletoworkasatesterinaScrumteam.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldbeabletoassessqualityriskswithinanAgileproject.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletoestimatetestingeffortbasedoniterationcontentandqualityrisks.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletointerpretrelevantinformationtosupporttestingactivities.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletoexplaintobusinessstakeholdershowtodefinetestableacceptance",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "criteria.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Givenauserstory,thetestershouldbeabletowriteacceptancetest-drivendevelopmenttest",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "cases.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Forbothfunctionalandnon-functionalbehavior,thetestershouldbeabletowritetestcasesusing",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "blackboxtestdesigntechniquesbasedongivenuserstories.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "ThetestershouldbeabletoperformexploratorytestingtosupportthetestingofanAgileproject.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Thetestershouldbeabletorecalldifferenttoolsavailabletotestersaccordingtotheirpurpose",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "andtoactivitiesinAgileprojects.",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page11of12May31,2014",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 11
+    },
+    {
+      "level": "None",
+      "text": "QualificationsBoard",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "International",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "Overview",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "SoftwareTesting",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "FoundationLevelExtension–AgileTester",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "4.References",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "4.1Trademarks",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "Thefollowingregisteredtrademarksandservicemarksareusedinthisdocument:",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "ISTQBisaregisteredtrademarkoftheInternationalSoftwareTestingQualificationsBoard",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "®",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "4.2DocumentsandWebSites",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "IdentifierReference",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "[ISTQB-Web]WebsiteoftheInternationalSoftwareTestingQualificationsBoard.Refer",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "tothiswebsiteforthelatestISTQBGlossaryandSyllabi.(www.istqb.org)",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "Version2014Page12of12May31,2014",
+      "page": 12
+    },
+    {
+      "level": "None",
+      "text": "©InternationalSoftwareTestingQualificationsBoard",
+      "page": 12
+    }
+  ]
+}
